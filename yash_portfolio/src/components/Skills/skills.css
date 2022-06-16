@@ -1,0 +1,19 @@
+
+
+.skills{
+    background-color: rgb(217, 189, 189);
+    height: 580px;
+    /* margin: 30px; */
+}
+.logo>img{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    margin: 10px;
+    width: 140px;
+    height: 100px;
+}
+h1{
+    text-decoration: underline;
+}
+
+
+

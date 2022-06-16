@@ -1,0 +1,27 @@
+.navbar{
+   background-color: rgb(204, 15, 15);
+   display: flex;
+   justify-content: space-evenly;
+   
+}
+
+.navbar>button{
+    width: 100px;
+     height:40px;
+      margin:5px; 
+      border-radius: 20px;
+   
+      
+    }
+/* .button {
+    position: absolute;
+    top: 50%;
+    background-color: #0a0a23;
+} */
+
+.navbar>button:hover{
+            
+            background-color: #23ad00f3;
+            transition: 0.7s;
+    
+}
